@@ -5851,6 +5851,6 @@ healthypi4.menu.DebugLevel.warn.build.code_debug=2
 healthypi4.menu.DebugLevel.info=Info
 healthypi4.menu.DebugLevel.info.build.code_debug=3
 healthypi4.menu.DebugLevel.debug=Debug
-healthypi4.menu.DebugLevel.debug.build.code_debug=4
+healthypi4.menu.DebugLevel.debug.build.code_debug=4tyu
 healthypi4.menu.DebugLevel.verbose=Verbose
 healthypi4.menu.DebugLevel.verbose.build.code_debug=5
